@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82.268" height="82.264" viewBox="0 0 82.268 82.264">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.686" y1="0.168" x2="0.31" y2="0.84" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d628a8"/>
+      <stop offset="1" stop-color="#106ecb"/>
+    </linearGradient>
+  </defs>
+  <g id="Messenger" transform="translate(-214.715 -2460)">
+    <g id="Elipse_1" data-name="Elipse 1" transform="translate(229 2460)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="27" cy="36" rx="27" ry="36" stroke="none"/>
+      <ellipse cx="27" cy="36" rx="26.5" ry="35.5" fill="none"/>
+    </g>
+    <path id="facebook-messenger-brands" d="M49.225,8C26,8,8,24.974,8,47.9A39,39,0,0,0,20.949,77.415c1.385,1.246,1.1,1.967,1.335,9.658a3.3,3.3,0,0,0,4.624,2.914c8.776-3.865,8.889-4.17,10.376-3.765,25.425,7,52.983-9.273,52.983-38.321C90.268,24.974,72.453,8,49.225,8ZM73.979,38.706,61.871,57.875a6.2,6.2,0,0,1-8.942,1.647L43.3,52.312a2.488,2.488,0,0,0-2.986,0l-13,9.859a1.955,1.955,0,0,1-2.838-2.6L36.581,40.4a6.2,6.2,0,0,1,8.942-1.647l9.63,7.208a2.488,2.488,0,0,0,2.986,0l13.005-9.849a1.95,1.95,0,0,1,2.835,2.591Z" transform="translate(206.715 2452)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

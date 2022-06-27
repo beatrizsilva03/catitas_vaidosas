@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71" height="82.264" viewBox="0 0 71 82.264">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0090ff"/>
+      <stop offset="1" stop-color="#0a1dc5"/>
+    </linearGradient>
+  </defs>
+  <g id="Facebook" transform="translate(-54 -2435)">
+    <g id="Retângulo_4" data-name="Retângulo 4" transform="translate(54 2435)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)">
+      <rect width="71" height="82" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="70" height="81" rx="17.5" fill="none"/>
+    </g>
+    <path id="facebook-f-brands" d="M54.052,35.023l1.729-11.268H44.969V16.443c0-3.083,1.51-6.088,6.353-6.088h4.915V.761A59.943,59.943,0,0,0,47.512,0c-8.9,0-14.724,5.4-14.724,15.167v8.588h-9.9V35.023h9.9v27.24H44.969V35.023Z" transform="translate(50.11 2455)" fill="#fff"/>
+  </g>
+</svg>
